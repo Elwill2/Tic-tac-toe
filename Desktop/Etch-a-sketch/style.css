@@ -1,0 +1,15 @@
+#grid {
+    display : flex;     
+    width : 640px;
+    flex-wrap : wrap;
+
+}
+
+#grid div {
+    display : flex;
+    background-color : hsl(300, 26%, 39%);
+    width : 10px;
+    height : 10px;
+    text-decoration-thickness : 10px;   
+
+}
